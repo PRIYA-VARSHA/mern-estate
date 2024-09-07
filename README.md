@@ -1,7 +1,7 @@
 **WELCOME TO MERN PROPERTY HUB**
 
 A Place where you can find your dream house and can sell or buy the property.
-This include no mediator so there exist a direct contact between the owner and the tenants.
+This include no mediator so there exists a direct contact between the owner and the tenants.
 
 HOME PAGE FOR MERN PROPERTY HUB WEBSITE.
 ![HOME PAGE](https://github.com/PRIYA-VARSHA/mern-estate/blob/cb912df49894f1437c5106172cab70ac764bf32d/Screenshot%20(872).png)
@@ -41,3 +41,6 @@ MONGODB database which stores the new user Sign Up and show the property uploade
 ![image alt](https://github.com/PRIYA-VARSHA/mern-estate/blob/fe6397d55d7fb225ccef3881b7d133a6c3bf6a2b/Screenshot%20(882).png)
 ![image alt](https://github.com/PRIYA-VARSHA/mern-estate/blob/7e2d34823ba79b639113544221197d2bf6400b4d/Screenshot%20(883).png)
 
+
+**THANK YOU!!
+HAPPY LEARNING!**
