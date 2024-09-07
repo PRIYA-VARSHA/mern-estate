@@ -1,4 +1,5 @@
-WELCOME TO MERN PROPERTY HUB.
+**WELCOME TO MERN PROPERTY HUB**
+
 A Place where you can find your dream house and can sell or buy the property.
 This include no mediator so there exist a direct contact between the owner and the tenants.
 HOME PAGE FOR MERN PROPERTY HUB WEBSITE.
@@ -12,7 +13,7 @@ SIGN IN To the website by giving email id and password
 ![image alt](https://github.com/PRIYA-VARSHA/mern-estate/blob/47d62b611669bc2caba193343b20991a7723bfa9/Screenshot%20(871).png)
 
 LIST OF PROPERTIES IN THE WEBSITE
-![image alt](image_url)
+![image alt](https://github.com/PRIYA-VARSHA/mern-estate/blob/f4a966e71ca0b5c035188bf27952e35151e1ab1f/Screenshot%20(873).png)
 ![image alt](image_url)
 
 OWNERS AND BUYERS CAN UPDATE THEIR RESPECTIVE PROFILE by changing user name , email id , password , profile photo then they can click on update.
