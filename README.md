@@ -14,7 +14,7 @@ SIGN IN To the website by giving email id and password
 
 LIST OF PROPERTIES IN THE WEBSITE
 ![image alt](https://github.com/PRIYA-VARSHA/mern-estate/blob/f4a966e71ca0b5c035188bf27952e35151e1ab1f/Screenshot%20(873).png)
-![image alt](image_url)
+![image alt](https://github.com/PRIYA-VARSHA/mern-estate/blob/e2d8583baf8084b4e9ebd59f4bf20ee3e10b8d0b/Screenshot%20(874).png)
 
 OWNERS AND BUYERS CAN UPDATE THEIR RESPECTIVE PROFILE by changing user name , email id , password , profile photo then they can click on update.
 ![image alt](image_url)
