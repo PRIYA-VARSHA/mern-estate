@@ -20,6 +20,7 @@ OWNERS AND BUYERS CAN UPDATE THEIR RESPECTIVE PROFILE by changing user name , em
 ![image alt](https://github.com/PRIYA-VARSHA/mern-estate/blob/f6fba44248d86eec32583fc124eb04138d74e38b/Screenshot%20(877).png)
 
 Owners can create the listing of property
+![image alt](https://github.com/PRIYA-VARSHA/mern-estate/blob/4b2d4edf5ae1c0ee5a1ba8bb554bcf3913a39e2f/Screenshot%20(876).png)
 ![image alt](image_url)
 
 Owners can customize their way of showing the property to the users.
