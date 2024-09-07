@@ -31,4 +31,6 @@ Buyers can contact witrh the owners using contact landlord and send automatic em
 ![image alt](https://github.com/PRIYA-VARSHA/mern-estate/blob/e0da13b824a0670c430c38cd42791ed428c4bc13/Screenshot%20(880).png)
 
 MONGODB database which stores the new user Sign Up and show the property uploaded in the website.
+![image alt](https://github.com/PRIYA-VARSHA/mern-estate/blob/fe6397d55d7fb225ccef3881b7d133a6c3bf6a2b/Screenshot%20(882).png)
 ![image alt](image_url)
+
