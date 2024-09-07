@@ -25,7 +25,7 @@ Owners can create the listing of property
 ![image alt](https://github.com/PRIYA-VARSHA/mern-estate/blob/987b1ccb84a1773c0e843aa7d8df8f9a8c84b553/Screenshot%20(878).png)
 
 Owners can customize their way of showing the property to the users.
-![image alt](image_url)
+![image alt](https://github.com/PRIYA-VARSHA/mern-estate/blob/a89adb9222d02e7cdca8e2d5dc821d147d3c7656/Screenshot%20(879).png)
 
 Buyers can contact witrh the owners using contact landlord and send automatic email message to the owners for further informations.
 ![image alt](image_url)
