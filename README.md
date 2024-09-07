@@ -6,4 +6,7 @@ HOME PAGE FOR MERN PROPERTY HUB WEBSITE.
 
 SIGN UP To website by providing your username,email id and password
 
+![image alt](https://github.com/PRIYA-VARSHA/mern-estate/blob/d5da3255301a1175b6670aa68a39e8dfc2550e84/Screenshot%20(870).png)
+
+SIGN IN To the website by giving email id and password
 ![image alt](image_url)
