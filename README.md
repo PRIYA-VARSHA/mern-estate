@@ -17,7 +17,7 @@ LIST OF PROPERTIES IN THE WEBSITE
 ![image alt](https://github.com/PRIYA-VARSHA/mern-estate/blob/e2d8583baf8084b4e9ebd59f4bf20ee3e10b8d0b/Screenshot%20(874).png)
 
 OWNERS AND BUYERS CAN UPDATE THEIR RESPECTIVE PROFILE by changing user name , email id , password , profile photo then they can click on update.
-![image alt](image_url)
+![image alt](https://github.com/PRIYA-VARSHA/mern-estate/blob/f6fba44248d86eec32583fc124eb04138d74e38b/Screenshot%20(877).png)
 
 Owners can create the listing of property
 ![image alt](image_url)
